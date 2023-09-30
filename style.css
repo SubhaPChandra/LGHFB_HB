@@ -8,7 +8,7 @@
 body {
     height: 100vh;
     width: 100%;
-    background-color: #f7b21f;
+    background-color: #a7da32;
 }
 
 nav {
@@ -23,16 +23,16 @@ nav {
 }
 
 nav h1 {
-    color: #ffffff;
+    color: #000000;
 }
 
 .enrollment-form {
     max-width: 50%;
     margin: 0 auto;
-    margin-top: 10px;
+    margin-top: 50px;
     margin-bottom: 10px;
     padding: 20px;
-    border: 1px solid #FF420E;
+    border: 1px solid #947a73;
     border-radius: 5px;
     background-color: #F6F6F6;
     cursor: default;
@@ -42,7 +42,7 @@ label {
     display: block;
     margin-top: 10px;
     font-weight: bold;
-    color:  #436051;
+    color:  #f01b1b;
 }
 
 .container2 {
@@ -57,7 +57,7 @@ legend {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: large;
     font-weight: bold;
-    color: #FF420E;
+    color: #000000;
 }
 
 
@@ -86,7 +86,7 @@ button[type="reset"] {
     font-size: 12px;
     margin-top: 10px;
     margin-left: 15px;
-    background-color: #FF420E;
+    background-color: #59f732;
     color: #ffffff;
     border: none;
     border-radius: 5px;
@@ -121,7 +121,7 @@ button[type="reset"] {
 }
 
 th {
-    background-color: #FF420E;
+    background-color: #b98b7f;
     font-weight: bold;
     color: #ffffff;
 }
